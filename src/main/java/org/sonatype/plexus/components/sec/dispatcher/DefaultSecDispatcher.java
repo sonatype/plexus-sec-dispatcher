@@ -61,7 +61,7 @@ implements SecDispatcher
      * 
      * @plexus.configuration default-value="~/.settings-security.xml"
      */
-    protected String _configurationFile = "~/.settings-security.xml";
+    protected String _configurationFile = "~/.m2/settings-security.xml";
 
     // ---------------------------------------------------------------
     public String decrypt( String str )
