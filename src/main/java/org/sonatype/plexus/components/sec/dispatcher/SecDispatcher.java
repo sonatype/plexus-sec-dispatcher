@@ -15,7 +15,7 @@ package org.sonatype.plexus.components.sec.dispatcher;
 
 
 /**
- * This component descrypts a string, passed to it
+ * This component decrypts a string, passed to it
  * 
  * @author Oleg Gusakov
  */
